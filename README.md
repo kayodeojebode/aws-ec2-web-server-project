@@ -1,40 +1,58 @@
-# AWS EC2 Web Server Project
+# AWS EC2 Web Server Project 🚀
 
-## Project Overview
-This project demonstrates how I launched and configured a Linux web server using Amazon EC2. I connected to an Ubuntu server, installed Apache, configured HTTP access, and deployed a live webpage.
+## 📌 Project Overview
 
-## Tools and Services Used
-- AWS EC2
-- Ubuntu Linux
-- Apache Web Server
-- EC2 Instance Connect
-- Security Groups
-- HTML/CSS
+This project demonstrates how I deployed a Linux web server on AWS EC2 using Ubuntu and Apache.
 
-## Steps Completed
-1. Launched an Ubuntu EC2 instance in AWS.
-2. Connected to the instance using EC2 Instance Connect.
-3. Updated the server packages.
-4. Installed Apache web server.
-5. Started and enabled Apache.
-6. Configured HTTP access using security group inbound rules.
-7. Deployed a custom HTML webpage.
-8. Tested the website using the public IPv4 address.
+I launched an EC2 instance, connected via SSH, installed Apache, configured HTTP access, and hosted a live webpage accessible through a public IP address.
 
-## Skills Demonstrated
-- Cloud server deployment
-- Linux command line basics
-- Apache web server setup
-- AWS EC2 configuration
-- Security group configuration
-- Basic website deployment
+---
 
-## Screenshots
-Add screenshots here:
-- EC2 instance running
-- Security group inbound rules
-- Terminal commands
-- Live webpage
+## ⚙️ Technologies Used
 
-## CV Summary
+* AWS EC2
+* Ubuntu Linux
+* Apache Web Server
+* Security Groups
+* EC2 Instance Connect
+* HTML/CSS
+
+---
+
+## 🔧 What I Did
+
+* Launched Ubuntu EC2 instance
+* Connected using EC2 Instance Connect
+* Installed Apache web server
+* Started and enabled Apache service
+* Configured inbound rules (HTTP - Port 80)
+* Deployed a custom HTML website
+* Accessed website via public IPv4
+
+---
+
+## 🧠 Skills Demonstrated
+
+* Cloud computing (AWS EC2)
+* Linux command line
+* Web server setup (Apache)
+* Networking & security groups
+* Basic website deployment
+
+---
+
+## 📸 Screenshots
+
+(Add your screenshots here)
+
+---
+
+## 💼 CV Description
+
 Deployed and configured an Ubuntu web server on AWS EC2, installed Apache, enabled HTTP access via security groups, and hosted a live webpage using a public IPv4 address.
+
+---
+
+## 🔗 Live Demo
+
+http://35.178.190.245 (screenshots)
