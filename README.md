@@ -43,7 +43,20 @@ I launched an EC2 instance, connected via SSH, installed Apache, configured HTTP
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+### EC2 Instance Running
+![EC2 Instance](screenshots/ec2-instance-running.jpg)
+
+### Security Group Configuration
+![Security Group](screenshots/security-group-http.jpg)
+
+### Apache Installation
+![Apache Install](screenshots/apache-installation.jpg)
+
+### Live Website
+![Live Website](screenshots/live-website1.jpg)
+
+### Live Website
+![Live Website](screenshots/live-website2.jpg)
 
 ---
 
