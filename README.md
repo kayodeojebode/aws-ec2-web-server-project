@@ -1,21 +1,25 @@
-# AWS EC2 Web Server Project 🚀
+# 🚀 AWS EC2 Web Server Project
 
-## 📌 Project Overview
-
-This project demonstrates how I deployed a Linux web server on AWS EC2 using Ubuntu and Apache.
-
-I launched an EC2 instance, connected via SSH, installed Apache, configured HTTP access, and hosted a live webpage accessible through a public IP address.
+## 📌 Overview
+This project demonstrates how to deploy a web server on AWS EC2 using Ubuntu and Apache.
 
 ---
 
 ## ⚙️ Technologies Used
 
-* AWS EC2
-* Ubuntu Linux
-* Apache Web Server
-* Security Groups
-* EC2 Instance Connect
-* HTML/CSS
+## 🛠️ Technologies Used
+- AWS EC2
+- Ubuntu Linux
+- Apache Web Server
+- Security Groups
+
+## ⚙️ Setup Steps
+
+1. Launch EC2 instance (Ubuntu)
+2. Configure Security Group (HTTP & SSH)
+3. Connect via SSH
+4. Install Apache
+5. Deploy HTML website
 
 ---
 
@@ -68,4 +72,4 @@ Deployed and configured an Ubuntu web server on AWS EC2, installed Apache, enabl
 
 ## 🔗 Live Demo
 
-http://13.41.120.135 (screenshots)
+http://13.41.120.135
