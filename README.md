@@ -44,19 +44,19 @@ I launched an EC2 instance, connected via SSH, installed Apache, configured HTTP
 ## 📸 Screenshots
 
 ### EC2 Instance Running
-![EC2 Instance](Screenshots/ec2-instance-running.jpg)
+![EC2 Instance](screenshots/ec2-instance-running.jpg)
 
 ### Security Group Configuration
-![Security Group](Screenshots/security-group-http.jpg)
+![Security Group](screenshots/security-group-http.jpg)
 
 ### Apache Installation
-![Apache Install](Screenshots/apache-installation.jpg)
+![Apache Install](screenshots/apache-installation.jpg)
 
 ### Live Website
-![Live Website](Screenshots/live-website1.jpg)
+![Live Website](screenshots/live-website1.jpg)
 
 ### Live Website
-![Live Website](Screenshots/live-website2.jpg)
+![Live Website](screenshots/live-website2.jpg)
 
 ---
 
