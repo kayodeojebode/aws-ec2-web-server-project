@@ -68,4 +68,4 @@ Deployed and configured an Ubuntu web server on AWS EC2, installed Apache, enabl
 
 ## 🔗 Live Demo
 
-http://35.178.190.245 (screenshots)
+http://13.41.120.135 (screenshots)
