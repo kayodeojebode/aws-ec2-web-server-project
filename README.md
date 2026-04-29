@@ -23,6 +23,15 @@ This project demonstrates how to deploy a web server on AWS EC2 using Ubuntu and
 
 ---
 
+## 🧠 What I Learned
+
+- How to launch and manage EC2 instances
+- How to configure security groups for web traffic
+- How to install and manage Apache on Linux
+- How to deploy a live website using a public IP
+
+---
+
 ## 🔧 What I Did
 
 * Launched Ubuntu EC2 instance
@@ -42,6 +51,15 @@ This project demonstrates how to deploy a web server on AWS EC2 using Ubuntu and
 * Web server setup (Apache)
 * Networking & security groups
 * Basic website deployment
+
+---
+
+## 🔧 Future Improvements
+
+- Add HTTPS using AWS Certificate Manager
+- Use Nginx instead of Apache
+- Automate deployment using shell scripts
+- Add CI/CD with GitHub Actions
 
 ---
 
